@@ -2,5 +2,8 @@ pandas
 numpy
 seaborn
 matplotlib
--e .
+scikit-learn
+catboost
+xgboost
+# -e .
 # to trigger setup.py file
